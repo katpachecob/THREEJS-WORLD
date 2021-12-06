@@ -2,7 +2,7 @@
 
 
 ## PURPOSE
-Create an animation of world in threejs
+Create an animation of a world in threejs
 
 ## TO RUN THE PROJECT
 
